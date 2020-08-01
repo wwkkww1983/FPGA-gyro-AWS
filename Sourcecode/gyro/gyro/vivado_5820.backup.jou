@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Aug  1 21:32:41 2020
+# Process ID: 5820
+# Current directory: C:/vivadopro/project_8
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10788 C:\vivadopro\project_8\project_8.xpr
+# Log file: C:/vivadopro/project_8/vivado.log
+# Journal file: C:/vivadopro/project_8\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/vivadopro/project_8/project_8.xpr
+update_compile_order -fileset sources_1

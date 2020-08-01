@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Aug  1 21:32:41 2020
+# Process ID: 5820
+# Current directory: C:/vivadopro/project_8
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10788 C:\vivadopro\project_8\project_8.xpr
+# Log file: C:/vivadopro/project_8/vivado.log
+# Journal file: C:/vivadopro/project_8\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/vivadopro/project_8/project_8.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/ap/Desktop/SEA-master'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:20 . Memory (MB): peak = 779.305 ; gain = 172.816
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Aug  1 21:36:28 2020...
